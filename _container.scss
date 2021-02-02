@@ -32,7 +32,7 @@
         background: url('./images/bg-pattern-desktop.svg');
         background-repeat: no-repeat;
         background-position: -600px -300px;
-        background-color: $light-blue;
+        background-color: white;
         overflow: hidden;
 
         @include breakpoint-down("mobile") {
